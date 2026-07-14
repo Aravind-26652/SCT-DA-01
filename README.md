@@ -32,7 +32,6 @@ The objective of this project is to clean, analyze, and visualize sales data usi
 ## Tools Used
 
 - Microsoft Excel
-- Google Sheets
 
 ---
 
